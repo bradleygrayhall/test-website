@@ -1,0 +1,12 @@
+#outter {
+    display: grid;
+    place-items: center;
+}
+
+#imageDiv1 {
+    position: absolute;
+}
+
+#basketball {
+    transform: perspective(700px);
+}
