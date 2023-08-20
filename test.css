@@ -10,3 +10,9 @@
 #basketball {
     transform: perspective(700px);
 }
+
+#baseball {
+    transform: translate(-1000px, 0px);
+    /*transform-origin: top left;*/
+    /* added this line */
+}
